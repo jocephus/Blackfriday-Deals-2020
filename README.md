@@ -149,7 +149,9 @@
 
 > **Link:** https://www.theosintion.com/courses/schedule/
 
-> **What:** 33% off ALL OSINTion courses (8-Hour People OSINT, 8-hour Business OSINT, 6-Hour OPSEC). **USE CODE 2020BF1337OSINT for 33% off!**
+> **What:** 33% off ALL OSINTion courses (8-Hour People OSINT, 8-hour Business OSINT, 6-Hour OPSEC). 
+
+> **USE CODE 2020BF1337OSINT for 33% off!**
 
 **The OSINTion Introduction to People OSINT/OSINT for Missing Persons Course (Directly suppports TraceLabs OSINT Search Party)**
 
@@ -157,7 +159,9 @@
 
 > **Link:** https://osint.mobi/2FzBTaa
 
-> **What:** People OSINT (8-hour course as 2 4-hour sessions) November 23-24, 2020 from 6-10PM (EST). **USE CODE 2020BF1337OSINT for 33% off!**
+> **What:** People OSINT (8-hour course as 2 4-hour sessions) November 23-24, 2020 from 6-10PM (EST). 
+
+> **USE CODE 2020BF1337OSINT for 33% off!**
 
 **The OSINTion Business OSINT Course**
 
@@ -165,11 +169,15 @@
 
 > **Link:** https://osint.mobi/347dsue
 
-> **What:** Business OSINT (8-hour course as 2 4-hour sessions) November 30 - December 1, 2020 from 6-10PM (EST)). **USE CODE 2020BF1337OSINT for 33% off!**
+> **What:** Business OSINT (8-hour course as 2 4-hour sessions) November 30 - December 1, 2020 from 6-10PM (EST)). 
+
+> **USE CODE 2020BF1337OSINT for 33% off!**
 
 > **Link:** https://www.theosintion.com/courses/schedule/
 
-> **What:** Business OSINT (8-hour course with approximately 30 minutes of breaks) December 5, 2020 from 1-9:30PM (EST)). **USE CODE 2020BF1337OSINT for 33% off!**
+> **What:** Business OSINT (8-hour course with approximately 30 minutes of breaks) December 5, 2020 from 1-9:30PM (EST)). 
+
+> **USE CODE 2020BF1337OSINT for 33% off!**
 
 **The OSINTion Practical OPSEC for OSINT & Privacy Course**
 
@@ -177,8 +185,12 @@
 
 > **Link:** https://osint.mobi/2IRhAXH
 
-> **What:** Practical OPSEC for OSINT & Privacy (6-hour course with approximately 30 minutes of breaks) December 12, 2020 from 1-7:30PM (EST)). **USE CODE 2020BF1337OSINT for 33% off!**
+> **What:** Practical OPSEC for OSINT & Privacy (6-hour course with approximately 30 minutes of breaks) December 12, 2020 from 1-7:30PM (EST)). 
+
+> **USE CODE 2020BF1337OSINT for 33% off!**
 
 > **Link:** https://osint.mobi/2KkTl4e
 
-> **What:** Practical OPSEC for OSINT & Privacy (6-hour course as 2 3-hour sessions) December 14-15, 2020 from 6-9PM (EST)). **USE CODE 2020BF1337OSINT for 33% off!**
+> **What:** Practical OPSEC for OSINT & Privacy (6-hour course as 2 3-hour sessions) December 14-15, 2020 from 6-9PM (EST)). 
+
+> **USE CODE 2020BF1337OSINT for 33% off!**
